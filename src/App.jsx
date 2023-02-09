@@ -8,20 +8,13 @@ function App() {
 
   return (
     <>
-   // nav bar with logo and title
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <div className="container-fluid">
-          <a className="navbar-brand" href="#">
-            <img src={reactLogo} alt="react logo" width="30" height="24" className="d-inline-block align-text-top" />
-            Oceam-me
-          </a>
-        </div>
-      </nav>
+      <h1> Oceam-me</h1>
+          
+       
       // main content
       <div className="container">
         <div className="row">
           <div className="col-12">
-            <h1 className="text-center">Ocean-Me </h1>
 
             <Casestudy />
          
@@ -29,7 +22,7 @@ function App() {
         </div>
       </div>
 
-      // footer
+       {/* footer */}
       <footer className="footer mt-auto py-3 bg-light">
         <div className="container">
           <span className="text-muted">React App</span>

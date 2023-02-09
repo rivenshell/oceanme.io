@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
-import casestudy from './components/casestudy'
+import Casestudy from './components/casestudy'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -22,21 +22,9 @@ function App() {
         <div className="row">
           <div className="col-12">
             <h1 className="text-center">Ocean-Me </h1>
-            
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-12">
-            <div className="card">
-              <div className="card-body">
-                <h5 className="card-title">Counter</h5>
-                <p className="card-text">This is a simple counter</p>
-                <button className="btn btn-primary" onClick={() => setCount(count + 1)}>
-                  Click me
-                </button>
-                <p className="card-text mt-3">You clicked {count} times</p>
-              </div>
-            </div>
+
+            <Casestudy />
+         
           </div>
         </div>
       </div>

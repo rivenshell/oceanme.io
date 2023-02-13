@@ -4,7 +4,7 @@ import Casestudy from "./components/casestudy";
 import Navbar from "./components/navbar";
 import Dashboard from "./components/dashboard";
 import Footer from "./components/footer";
-import Peakpx from "./images/peakpx.jpg";
+import Peakpx from "./img/peakpx.jpg";
 
 
 
@@ -13,10 +13,12 @@ function App() {
 
   return (
     <>
-    <img src={Peakpx} alt={"water"} class="responsive" />
-    <Dashboard />
-
     
+    <img src={Peakpx} alt={"water"} class="responsive" /> 
+    {/* background-image: url(${Peakpx}); */}
+   
+      
+     <Dashboard />
       
     </>
   );

@@ -7,7 +7,7 @@
     alt="way of the ocean"
     style="display: inline-block; margin: 0 auto; max-width: 600px"> -->
 
-    ![alt text](https://github.com/rivenshell/oceanme.io/blob/main/src/img/peakpx.jpg?raw=true)
+    ![way of water](https://github.com/rivenshell/oceanme.io/blob/main/src/img/peakpx.jpg?raw=true "oceanme.io cover")
 
 **Brand Name:** Oceanme.io (for illustrative purposes only)
 

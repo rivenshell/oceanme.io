@@ -4,6 +4,7 @@ import Casestudy from "./components/casestudy";
 import Navbar from "./components/navbar";
 import Dashboard from "./components/dashboard";
 import Footer from "./components/footer";
+import Peakpx from "./images/peakpx.jpg";
 
 
 
@@ -12,8 +13,7 @@ function App() {
 
   return (
     <>
-    <img src="./images/peakpx.jpg" alt="water" width={2880} height={1920} />
-    <Navbar />
+    <img src={Peakpx} alt={"water"} class="responsive" />
     <Dashboard />
 
     

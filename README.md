@@ -2,6 +2,11 @@
 
 ## About this project
 
+<img 
+    src="./img/peakpx.jpg"
+    alt="way of the ocean"
+    style="display: inline-block; margin: 0 auto; max-width: 600px">
+
 **Brand Name:** Oceanme.io (for illustrative purposes only)
 
 Protect our oceans, save our future.

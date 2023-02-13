@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./App.css";
+import "./styles/App.css";
 import Casestudy from "./components/casestudy";
 import Navbar from "./components/navbar";
 import Dashboard from "./components/dashboard";

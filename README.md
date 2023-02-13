@@ -2,10 +2,12 @@
 
 ## About this project
 
-<img 
+<!-- <img 
     src="./img/peakpx.jpg"
     alt="way of the ocean"
-    style="display: inline-block; margin: 0 auto; max-width: 600px">
+    style="display: inline-block; margin: 0 auto; max-width: 600px"> -->
+
+    ![alt text](https://github.com/rivenshell/oceanme.io/blob/main/src/img/peakpx.jpg?raw=true)
 
 **Brand Name:** Oceanme.io (for illustrative purposes only)
 

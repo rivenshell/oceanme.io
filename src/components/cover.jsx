@@ -1,10 +1,16 @@
 import React from 'react'
+import Peakpx from "../img/peakpx.jpg";
 
 function cover() {
   return (
-    <div className='content'>
-        Protect our oceans, save our future.
-    </div>
+   <>
+   <img src={Peakpx} alt={"water"} class="responsive" />
+   <div className='content'> 
+    Protect Our Oceans,
+     <br /> Save Our Future.
+     
+ </div>
+ </> 
   )
 }
 
